@@ -1,7 +1,9 @@
 package main
 //TEST
 //Test
-//Test
+// TEST
+// TEST
+//test
 import "fmt"
 
 func main(){
