@@ -1,0 +1,3 @@
+FROM golang
+
+ENV TEST test-image 
