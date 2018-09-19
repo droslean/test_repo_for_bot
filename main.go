@@ -1,9 +1,7 @@
 package main
-//TEST
-//Test
-//Test
 import "fmt"
-
+// TEST
+// YOLO
 func main(){
     fmt.Println("Test")
 }
