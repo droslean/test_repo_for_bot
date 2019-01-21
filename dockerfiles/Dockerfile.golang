@@ -1,3 +1,5 @@
 FROM golang
 
 ENV TEST golang 
+
+ENV PRTEST trela
